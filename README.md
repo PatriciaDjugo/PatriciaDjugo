@@ -1,4 +1,1 @@
 # patpatpatfolio
----
-permalink: /patriciadjugo.html
----
