@@ -1,1 +1,4 @@
 # patpatpatfolio
+---
+permalink: /index.html
+---
